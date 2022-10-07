@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da775fb6-7d69-48d2-b9fe-b7c10713f9ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaymentBase.csv" beforeDir="false" afterPath="$PROJECT_DIR$/PaymentBase.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBase.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TicketBase.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserDatabase.csv" beforeDir="false" afterPath="$PROJECT_DIR$/UserDatabase.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8a4408de-6726-440d-8ac5-317bb610d7b8" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29ikmBrAvXYm6abQPIaC6rWNuS0" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "E:/UT/2022SUM/IdeaProjects/CSC207/Slides/W11/floatingpoint/floatingpoint/src",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Owner\Documents\CSC207\group_0291\phase1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.graphUIMaster">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApplication" />
+      <module name="GroupProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graphUIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.graphUIMain" />
+      <module name="GroupProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="graphUIMaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.graphUIMaster" />
+      <module name="GroupProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.testRemoveTicket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSuite" />
+      <option name="METHOD_NAME" value="testRemoveTicket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketUseCaseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CustomerUseCaseTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CustomerUseCaseTests" />
+      <option name="MAIN_CLASS_NAME" value="CustomerUseCaseTests.TicketUseCaseTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.graphUIMaster" />
+        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="JUnit.TicketUseCaseTests" />
+        <item itemvalue="Application.graphUIMain" />
+        <item itemvalue="JUnit.TestSuite.testRemoveTicket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da775fb6-7d69-48d2-b9fe-b7c10713f9ef" name="Changes" comment="" />
+      <created>1653603452623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653603452623</updated>
+      <workItem from="1653603454982" duration="287000" />
+      <workItem from="1653603815393" duration="91000" />
+      <workItem from="1653603976770" duration="55000" />
+      <workItem from="1653604117049" duration="34000" />
+      <workItem from="1653604207079" duration="44000" />
+      <workItem from="1653605435245" duration="16000" />
+      <workItem from="1653614608195" duration="1288000" />
+      <workItem from="1653857181073" duration="25000" />
+      <workItem from="1654129323046" duration="167000" />
+      <workItem from="1654560833708" duration="66000" />
+      <workItem from="1656514254980" duration="29000" />
+      <workItem from="1656514300963" duration="1316000" />
+      <workItem from="1657058283565" duration="1909000" />
+      <workItem from="1657070179010" duration="1045000" />
+      <workItem from="1658283183906" duration="16000" />
+      <workItem from="1659051704846" duration="596000" />
+      <workItem from="1659125119257" duration="614000" />
+      <workItem from="1659320667856" duration="8000" />
+      <workItem from="1659478832746" duration="1118000" />
+      <workItem from="1659549087455" duration="857000" />
+      <workItem from="1659651343774" duration="80000" />
+      <workItem from="1659651431854" duration="36000" />
+      <workItem from="1659657402596" duration="619000" />
+      <workItem from="1659759197973" duration="610000" />
+      <workItem from="1659759825056" duration="3064000" />
+      <workItem from="1659799341132" duration="15969000" />
+      <workItem from="1659889404525" duration="4579000" />
+      <workItem from="1659972907673" duration="641000" />
+      <workItem from="1659973610530" duration="9732000" />
+      <workItem from="1660076948395" duration="6033000" />
+      <workItem from="1660322486965" duration="4223000" />
+      <workItem from="1660587666512" duration="12000" />
+      <workItem from="1660843070935" duration="1316000" />
+      <workItem from="1660846703511" duration="596000" />
+      <workItem from="1660937904311" duration="18000" />
+      <workItem from="1661276620271" duration="71000" />
+      <workItem from="1661276703546" duration="1307000" />
+    </task>
+    <task id="LOCAL-00001" summary="Group information file">
+      <created>1653603875638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653603875638</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Typo on the name of the file, so reuploaded">
+      <created>1653614827354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653614827354</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Typo on the name of the file, so reuploaded">
+      <created>1653615300449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653615300449</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added already made material (phase 0) to Phase 1 folder">
+      <created>1657070259156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657070259156</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added already made material (phase 0) to Phase 1 folder (including tests) and everything else">
+      <created>1657075512816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657075512816</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed time date display of Ticket class so that&#10;it follows &quot;YYYY-MM-DD XX:XX:XX.xxx UTC&quot; format.&#10;&#10;Created the shell of the GUI.">
+      <created>1659762467943</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659762467943</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Enhanced the GUI &quot;shell&quot; appearance. Codes reserved for login system.">
+      <created>1659801235207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659801235207</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Renamed graphUI.java to graphUIMain.java.&#10;Implemented the Login/Register GUI pages.&#10;Extracted the firstPage from the graphUIMain.">
+      <created>1659809786668</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659809786668</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added the four databases outside phase 2 folder for testing.">
+      <created>1659810910419</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659810910419</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added two tests about Ticket, fixed the GUI pages of&#10;Login and Registration.">
+      <created>1659812365299</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659812365299</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added error message for login page.">
+      <created>1659817637826</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659817637826</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed the authentication error on the GUI&#10;login page.">
+      <created>1659890385193</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659890385193</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Further implemented the Register and Login GUI page.">
+      <created>1659891848691</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659891848691</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Created the shells of two another GUI pages (customer Main page, Admin page)">
+      <created>1659893678575</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1659893678575</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added buttons for Admin/Main GUI pages">
+      <created>1659974215836</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659974215836</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fixed typos for Admin and Main GUI pages.&#10;Create a class for the common buttons for both Admin and Main.">
+      <created>1659974626039</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1659974626039</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Move the GUI classes into separate folders.&#10;Fixed the ID setter of the Ticket entity class.">
+      <created>1659989975374</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659989975374</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added one page (Buy Ticket) for customer GUI.">
+      <created>1660102928406</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660102928406</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updating the design document: adding my contribution to phase 2">
+      <created>1660320208223</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1660320208223</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updating the design document: further adding my contribution to phase 2 (error fixes)">
+      <created>1660342366879</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660342366879</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Group information file" />
+    <MESSAGE value="Typo on the name of the file, so reuploaded" />
+    <MESSAGE value="Added already made material (phase 0) to Phase 1 folder" />
+    <MESSAGE value="Added already made material (phase 0) to Phase 1 folder (including tests) and everything else" />
+    <MESSAGE value="Fixed time date display of Ticket class so that&#10;it follows &quot;YYYY-MM-DD XX:XX:XX.xxx UTC&quot; format.&#10;&#10;Created the shell of the GUI." />
+    <MESSAGE value="Enhanced the GUI &quot;shell&quot; appearance. Codes reserved for login system." />
+    <MESSAGE value="Renamed graphUI.java to graphUIMain.java.&#10;Implemented the Login/Register GUI pages.&#10;Extracted the firstPage from the graphUIMain." />
+    <MESSAGE value="Added the four databases outside phase 2 folder for testing." />
+    <MESSAGE value="Added two tests about Ticket, fixed the GUI pages of&#10;Login and Registration." />
+    <MESSAGE value="Added error message for login page.&#10;(Code reserved for future developments.)" />
+    <MESSAGE value="Added error message for login page." />
+    <MESSAGE value="Fixed the authentication error on the GUI&#10;login page." />
+    <MESSAGE value="Further implemented the Register and Login GUI page." />
+    <MESSAGE value="Created the shells of two another GUI pages (customer Main page, Admin page)" />
+    <MESSAGE value="Added buttons for Admin/Main GUI pages" />
+    <MESSAGE value="Fixed typos for Admin and Main GUI pages.&#10;Create a class for the common buttons for both Admin and Main." />
+    <MESSAGE value="Move the GUI classes into separate folders.&#10;Fixed the ID setter of the Ticket entity class." />
+    <MESSAGE value="Added one page (Buy Ticket) for customer GUI." />
+    <MESSAGE value="Updating the design document: adding my contribution to phase 2" />
+    <MESSAGE value="Updating the design document: further adding my contribution to phase 2 (error fixes)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating the design document: further adding my contribution to phase 2 (error fixes)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/phase2/src/MainApplication.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/phase2/src/MainApplication.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/phase2/src/GUI/graphUIMaster.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/phase2/src/GUI/graphUIMaster.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
