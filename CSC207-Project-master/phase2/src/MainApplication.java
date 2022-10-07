@@ -43,7 +43,7 @@ public class MainApplication {
             dc4.save();
         } catch (IOException e) {
             System.out.println("Failed to perform operations on the database file. Please make sure the file " +
-                    "permissions are set correctly and try again.");
+                    "permissions are set correctly and please try again.");
         } catch (ParseException e) {
             System.out.println("Failed to parse data in the database. You are probably using an older version of the " +
                     "database that is not compatible with the current version of program. Please reset the database " +
